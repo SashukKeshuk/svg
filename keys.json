@@ -3,7 +3,6 @@
     {
       "kty": "RSA",
       "kid": "d0098ff1-1996-40fa-bb72-60df8551cc1e",
-      "use": "sig",
       "n": "vgCjokeOZQFgZlYC1RYDJyzy5vzC_JAsq7XDn5hZ3OEvor2WtP_Lrbl9TqXA7R0Eerec2zWLdbefxD85rM7kzJl-me267R2iWSCAFV0ODm480yDZHDnb5ZqAXkvI2nPRG0UDos4FyaHQCvsguQ3iuNUYwg6QcC83lwaW-j2vN0_C74hrBNeUIeg6i0MzwJal4HuNriie2PK65ArKvvX_O68oUbDPXYeFT9GxpGYtL0QrBDdhzUXIHB4tn92Hm0N7en2id1u7jA5SxeCjOYryfH7wQFvQyFvxcszBkuxyLGtJh0Bxfc-lvasgcef4O_7gGBvN8vs3EokY5rkwTrre7w",
       "e": "AQAB"
     }
